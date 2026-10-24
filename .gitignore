@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables
+.env
+.env.*
+
+# Research data
+data/raw/*
+data/processed/*
+data/external/*
+
+# Generated results
+results/figures/*
+results/tables/*
+
+# Keep directory structure
+!.gitkeep
