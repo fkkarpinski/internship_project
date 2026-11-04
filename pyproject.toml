@@ -1,7 +1,7 @@
 [project]
 name = "internship-project"
 version = "0.1.0"
-description = "Add your description here"
+description = "A research project on pharmacology"
 readme = "README.md"
 authors = [
     { name = "Franciszek Karpinski", email = "franek.karpinski1@gmail.com" }
