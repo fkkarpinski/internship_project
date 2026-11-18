@@ -24,5 +24,11 @@ data/*
 # Generated results
 results/*
 
+# Private research context
+project_context.md
+
 # Keep directory structure
 !.gitkeep
+
+# Ignore preprint
+preprint.pdf
